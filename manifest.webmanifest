@@ -1,0 +1,17 @@
+{
+  "name": "Medstyle-ai",
+  "short_name": "Medstyle",
+  "description": "An intelligent AI assistant for medical students",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#004A99",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
